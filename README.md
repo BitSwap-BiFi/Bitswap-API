@@ -1,6 +1,6 @@
 # Bitswap API
 
-API for Bitswap
+API for Bitswap wirtten in JSON
 
 ## Features
 
