@@ -13,3 +13,4 @@ API for Bitswap wirtten in JSON
 - [ ] Pairs
 - [ ] Ordebooks
 - [ ] Tickers
+- [ ] Beta version 
