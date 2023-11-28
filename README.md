@@ -7,6 +7,7 @@ API for Bitswap wirtten in JSON
 - Pairs
 - Orderbooks
 - Ticker
+- Tokens
 
 ## Roadmap
 
