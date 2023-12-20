@@ -2,6 +2,8 @@
 
 API for Bitswap wirtten in JSON
 
+**⚠️Alpha software and WIP**
+
 ## Features
 
 - Pairs
